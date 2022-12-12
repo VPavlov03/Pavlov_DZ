@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<heat>
+<style>
+body {
+  background-color: blue;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+background-size: 1px 50px;
+}
+     h1 {color: yellow;text-align: left;}
+     h2 {color: green;text-align: right;}
+     li {color:white;font-family: cursive;text-align: center;}
+     h3	{color: brown;text-align: center;}	
+		</style>
+  </head>
+
+  <body>
+	  <h1>Домашнее задание №4</h1>
+	  <h2>Свойства CSS которые применил:</h2>
+<p><ul>
+	<li>фон сайта</li>
+	<li>применение фона на всю страницу</li>
+	<li>цвет шрифта</li>
+	<li>стиль шрифта</li>
+</ul></p>
+	  <h3>Способы обозначения цвета в CSS:</h2>
+ <p><ul>
+	<li>шестнадцатеричные значения</li>
+	<li>RGB, RGBA</li>
+	<li>HSL, HSLA</li>
+	<li>предопределённые цвета</li>
+  </body>
+</html>
