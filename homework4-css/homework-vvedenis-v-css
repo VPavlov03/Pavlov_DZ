@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+ <title>
+Владимир Павлов
+</title>
+		<style>
+			body {
+  background-color: blue;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+background-size: 1px 50px;
+}
+p {
+				color: yellow;
+				font-weight: 900;
+			}
+		</style>
+</head>
+
+  <body>
+	  <h1>Владимир Павлов</h1>
+	  <h2>рассказ о себе</h2>
+	  <p><b>Меня зовут Вова, мне 31 год, я работаю оценщиком, хочу научиться писать код так, чтобы зарабатывать на этом деньги</b></p>
+	  <h2>Элементы которые я запомнил из статьи в википедии это:</h2>
+<p><ol><p>
+1. b -это сделать жинрый шрифт<p>
+2. ol -это создать список с нумерацией<p>
+3. ul - это создасть список без нумерации<p>
+4. i - это сделать курсив<p>
+5. big - это сделать текст большим</ol>
+</p>
+<p> но это больше запомнилось когда читал, т.к. есть аналогия с вордом</p>
+<img
+ src="https://images.ctfassets.net/b4k16c7lw5ut/5uxpOTfejcGAke3sekiPEO/19b17b16076eff7386147e35caf3d569/Screen_Shot_2020-08-20_at_4.23.36_pm.png" alt="<p><b><big> ОХРЕНЕТЬ Я ВСТАВИЛ КАРТИНКУ</big></b>">
+</img>
+  </body>
+</html>
